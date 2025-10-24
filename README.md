@@ -1,2 +1,2 @@
 # scrolling_game
-Javascript scrolling game for introduction to programming module 1.
+Javascript scrolling game
